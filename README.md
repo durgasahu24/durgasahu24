@@ -3,9 +3,9 @@
 <h1 align="center">👋 Welcome! I'm Durga Sahu</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/durgasahu24/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/durga-sahu-2ba10b27b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/durgasahu24"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:durgasahu24@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="durgasahusahu1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/durgasahu24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -51,9 +51,9 @@ I'm a **passionate software developer** with a knack for crafting efficient, sca
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/durgasahu24](https://www.linkedin.com/in/durgasahu24/)
+- 💼 LinkedIn: [linkedin.com/in/durgasahu24](https://www.linkedin.com/in/durga-sahu-2ba10b27b/)
 - 🐦 Twitter: [@durgasahu24](https://twitter.com/durgasahu24)
-- 📧 Email: [durgasahusahu1@example.com](mailto:durgasahusahu1@example.com)
+- 📧 Email: [durgasahusahu1@gmail.com](mailto:durgasahusahu1@gmail.com)
 
 ---
 
