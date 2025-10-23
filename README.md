@@ -11,12 +11,13 @@
 
 ## 🚀 About Me
 
-I'm a **passionate software developer** who loves building innovative and efficient applications. I enjoy exploring new technologies and solving complex problems.
+I'm a passionate Software Developer who loves building innovative and efficient web applications. I enjoy exploring new technologies and solving complex problems through clean, scalable code.
 
-- 🔭 **Currently Working On:** [Basic Chat Application](https://github.com/durgasahu24/Basic-chatapp)
-- 🌱 **Learning:** Advanced **React** & **WebSocket Protocols**
-- 📫 **Contact Me:** [durgasahusahu1@gmail.com](mailto:durgasahusahu1@gmail.com)
+🔭 Currently Working On: TypeScript
 
+🌱 Learning: Next.js & TypeScript
+
+📫 Contact Me: durgasahusahu1@gmail.com
 ---
 
 ## 🛠️ Tech Stack & Tools
